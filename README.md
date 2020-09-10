@@ -4,7 +4,7 @@
 
 Gracias por visitar el repositorio del equipo Live Code. 
 
-Botanical Profile Cards es una web que te permite crear tarjetas de contacto personalizadas. Nos hemos inspirado en Jeanne Baret, primera mujer botánica en dar la vuelta al mundo. Hemos utilizado nuestra creatividad para aportar un valor extra al producto final mediante un diseño corporativo, siempre consensuado con la Product Owner:
+Botanical Profile Cards es una web que te permite crear tarjetas de contacto personalizadas. Nos hemos inspirado en Jeanne Baret, primera mujer botánica en dar la vuelta al mundo. Hemos utilizado nuestra creatividad para aportar un valor extra al producto final mediante un diseño corporativo:
 
 🌿 marco extra en las imágenes de la tarjeta
 
