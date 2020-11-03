@@ -16,4 +16,25 @@ Botanical Profile Cards es una web que te permite crear tarjetas de contacto per
 
 🌿 fondo de la página
 
+## Herramientas
+
+- HTML5
+- Sass
+- JavaScript
+- Visual Studio Code
+
+## ¿Cómo arrancar el proyecto?
+
+1. Clonar el repositorio en tu ordenador
+```
+$ git clone https://github.com/VirginiaGomezR/BotanicalProfileCards.git
+```
+2. Instalar dependencias
+```
+$ npm install
+```
+3. Arrancar en modo desarrollo: 
+````
+$ npm start
+
 ¡Os animamos a crear vuestra propia tarjeta de contacto con Botanical Profile Cards!
